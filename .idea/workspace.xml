@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="rpi-rgb-led-matrix-rockchip" targetName="makefile" />
+      <config projectName="rpi-rgb-led-matrix-rockchip" targetName="GNUmakefile" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38c70539-152c-485e-b7ec-2c779f192507" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/active-3/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/active-3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/active-3/active3-rpi-hub75-adapter-cache.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/active-3/active3-rpi-hub75-adapter-fab.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/active-3/active3-rpi-hub75-adapter.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/active-3/active3-rpi-hub75-adapter.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/active-3/active3-rpi-hub75-adapter.sch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/active-3/schematic.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/kicad-scripts/kicad-fab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/kicad-scripts/makefile.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-3/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-3/passive3-rpi-hub75-adapter-cache.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-3/passive3-rpi-hub75-adapter-fab.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-3/passive3-rpi-hub75-adapter.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-3/passive3-rpi-hub75-adapter.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-3/passive3-rpi-hub75-adapter.sch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-rpi1/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-rpi1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-rpi1/passive-rpi-hub75-adapter-cache.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-rpi1/passive-rpi-hub75-adapter-fab.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-rpi1/passive-rpi-hub75-adapter.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-rpi1/passive-rpi-hub75-adapter.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/passive-rpi1/passive-rpi-hub75-adapter.sch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/RGBLedCanvas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/RGBLedFont.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/RGBLedMatrix.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/examples/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/examples/font-example.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/examples/matrix-rain.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/examples/minimal-example.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/c#/examples/pulsing-brightness.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/core.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/core.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/core.pyx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/cppinc.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/graphics.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/graphics.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/rgbmatrix/graphics.pyx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/gif-viewer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/graphics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/grayscale-block.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/image-draw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/image-scroller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/image-viewer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/pulsing-brightness.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/pulsing-colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/rotating-block-generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/runtext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/samplebase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/samples/simple-square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/python/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/c-example.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/clock.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/demo-main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/image-example.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/input-example.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/ledcat.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/minimal-example.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/pixel-mover.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/runtext.ppm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/runtext16.ppm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/scrolling-text-example.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples-api-use/text-example.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/10x20.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/4x6.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/5x7.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/5x8.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/6x10.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/6x12.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/6x13.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/6x13B.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/6x13O.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/6x9.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/7x13.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/7x13B.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/7x13O.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/7x14.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/7x14B.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/8x13.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/8x13B.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/8x13O.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/9x15.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/9x15B.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/9x18.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/9x18B.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/clR6x12.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/helvR12.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/texgyre-27.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/tom-thumb.bdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Vmapper_Z_192x160_3x5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/active3-pcb-config-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/active3-pcb-config-pin4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/active3-pcb-config-pin8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/active3-pcb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/active3-schematic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adafruit-64x64-back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adafruit-64x64-front.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adafruit-mod.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chained-64x64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/coordinates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/coordinates.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hub75-other.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hub75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/idc-hub75-connector.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/passive-rpi1-pcb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/passive3-pcb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pixelpusher-vid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/powerbar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/raspberry-gpio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/running-vid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/text-ghosting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/text-no-ghosting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/three-parallel-panels-soic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/time-display.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/user-action-shot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wire-up-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/canvas.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/content-streamer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/graphics.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/led-matrix-c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/led-matrix.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/pixel-mapper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/thread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/threaded-canvas-manipulator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bdf-font.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/content-streamer.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/framebuffer-internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/framebuffer.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gpio-bits.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gpio.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/graphics.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hardware-mapping.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hardware-mapping.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/led-matrix-c.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/led-matrix.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/multiplex-mappers-internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/multiplex-mappers.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/options-initialize.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pixel-mapper.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thread.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utf8-internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/led-image-viewer.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/text-scroller.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/video-viewer.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiring.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="777e865f-e3f7-4e23-a140-b1300d78f806" />
+        <option name="url" value="https://github.com/kvjoshi/rpi-rgb-led-matrix-rockchip.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="m8pefzel" />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="rpi-rgb-led-matrix-rockchip" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="rpi-rgb-led-matrix-rockchip" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="2LuAhvhcqstZgsYrXjv61SZXCht" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Hardware/rpi-rgb-led-matrix-rockchip/lib&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Hardware\rpi-rgb-led-matrix-rockchip\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile Application.GNUmakefile">
+    <configuration name="GNUmakefile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="rpi-rgb-led-matrix-rockchip" TARGET_NAME="GNUmakefile" CONFIG_NAME="GNUmakefile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="makefile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="rpi-rgb-led-matrix-rockchip" TARGET_NAME="makefile" CONFIG_NAME="makefile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.GNUmakefile" />
+      <item itemvalue="Makefile Application.makefile" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38c70539-152c-485e-b7ec-2c779f192507" name="Changes" comment="" />
+      <created>1676710716875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676710716875</updated>
+      <workItem from="1676710718167" duration="106000" />
+      <workItem from="1676710835847" duration="1113000" />
+      <workItem from="1676711969993" duration="5010000" />
+      <workItem from="1676906419358" duration="1912000" />
+      <workItem from="1677068988114" duration="267000" />
+      <workItem from="1677069267821" duration="2552000" />
+      <workItem from="1677140241085" duration="6273000" />
+      <workItem from="1677223850224" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
